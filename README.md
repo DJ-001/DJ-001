@@ -3,7 +3,8 @@
 ---
 #### ⭐ About me ⭐
 - 🎶 Always on vibing to tunes
-- 💻 Most likely making covers 
+- 💻 Most likely making music covers 
+- ❗️ I mostly work on private repos
 ---
 
 **💙 Where you can reach me 💙**\
