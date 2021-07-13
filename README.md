@@ -2,8 +2,8 @@
 ### My name's DJ, a student from Italy who enjoys programming every now and then! ❤
 ---
 #### ⭐ About me ⭐
-- 🎶 Always on vibing to tunes
-- 💻 Most likely making music covers 
+1. 🎶 Always on vibing to tunes
+1. 💻 Most likely making music covers 
 - ❗️ I mostly work on private repos
 ---
 
