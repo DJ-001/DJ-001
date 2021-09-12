@@ -5,7 +5,6 @@
 - 🎶 Always on vibing to tunes
 - 💻 Most likely making music covers 
 - ❗️ I mostly work on private repos
-- ✨ Very sus suck
 - 🦊 Very gay furry
 ---
 
