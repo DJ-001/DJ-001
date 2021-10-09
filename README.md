@@ -16,4 +16,4 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 **📖 Currently Learning... 📖**\
-<img alt="SQLite" src="https://img.shields.io/badge/sqlite%20-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="SQLite" src="https://img.shields.io/badge/markdown%20-000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> 
+<a href="https://sqlite.org/index.html"><img alt="SQLite" src="https://img.shields.io/badge/sqlite%20-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/></a> <a href="https://markdownguide.org/getting-started"><img alt="Markdown" src="https://img.shields.io/badge/markdown%20-000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></a> 
